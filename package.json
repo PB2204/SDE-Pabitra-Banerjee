@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
-  "private": true,
+  "private": false,
+  "homepage": "https://sde-pabitra-banerjee.explorecode.live",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
