@@ -1,0 +1,20 @@
+
+
+# Install Packs:
+npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
+
+# Add
+npm install --legacy-peer-deps three
+
+# For Run :
+npm run dev
+
+# For build
+npm run build
+
+# For 3 D Models :
+https://sketchfab.com/3d-models/categories/electronics-gadgets?date=week&features=downloadable&sort_by=-likeCount&cursor=bz01OSZwPTE%3D
+
+
+# Demo site
+http://vishwa-cv.netlify.app/
